@@ -1,0 +1,17 @@
+# 👋 Olá! Eu sou a Bruna Vitoria
+💻 Estudante do curso técnico de Desenvolvimento de Software  
+🚀 Aprendendo desenvolvimento web  
+📚 Iniciando os estudos em Python, HTML e CSS  
+
+## 🚀 Tecnologias que estou aprendendo
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+</p>
+
+## 📫 Contato
+[![Instagram](https://img.shields.io/badge/Instagram-Perfil-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/Bruna_vitoriiam)  
+[![Gmail](https://img.shields.io/badge/Gmail-Contato-red?style=for-the-badge&logo=gmail)](mailto:bruna.vitoria1973@hotmail.com)
+
+⭐ Obrigado por visitar meu perfil!
